@@ -18,7 +18,7 @@ insert into result VALUES
 Expected output schema & values
 ///--------------------------------------------------------------------------------------///
 [
-    {"pos_1st":"UP(3)","pos_2nd":"BIHAR(2),MP(2)","pos_3rd":null,"name":"deepak kumar"},
+    {"pos_1st":"UP(3)","pos_2nd":"BIHAR(2),MP(2)","pos_3rd":null,"name":"deepak kumar"}, ---> for the cnadidate their respective position & state &votecount
     {"pos_1st":"UP(3)","pos_2nd":"WB(2),BIHAR(2)","pos_3rd":null,"name":"ram kumar"}
 ]
 ///--------------------------------------------------------------------------------------///
